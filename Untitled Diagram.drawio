@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2020-10-27T10:25:13.004Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/86.0.4240.111 Safari/537.36" etag="TiZWy01jy914OAeTlSmJ" version="13.8.3" type="github">
+<mxfile host="app.diagrams.net" modified="2020-10-27T10:27:01.144Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/86.0.4240.111 Safari/537.36" etag="7vZ2PtXscslYfRtp1CaI" version="13.8.3" type="github">
   <diagram name="Page-1" id="822b0af5-4adb-64df-f703-e8dfc1f81529">
     <mxGraphModel dx="1038" dy="548" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1700" pageHeight="1100" background="#ffffff" math="0" shadow="0">
       <root>
@@ -189,6 +189,12 @@
         </mxCell>
         <mxCell id="3pc_l4z9qfXUdPNkcv5j-49" value="Architecture Bittorrent&lt;br&gt;Transfer de fichiers" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="475" y="990" width="100" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="3pc_l4z9qfXUdPNkcv5j-50" value="distribution des comptes utilisateur entre les membres du réseau CHORD" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="630" y="100" width="180" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="3pc_l4z9qfXUdPNkcv5j-51" value="Distribution des magnets link ainsi que du nom du fichier associé sur chaque membre du réseau CHORD" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="600" y="430" width="210" height="40" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
