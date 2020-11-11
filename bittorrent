@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2020-11-11T17:04:15.196Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/86.0.4240.183 Safari/537.36" etag="rof7S29UUW74lusnYLIl" version="13.9.6" type="github">
+<mxfile host="app.diagrams.net" modified="2020-11-11T17:05:14.251Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/86.0.4240.183 Safari/537.36" etag="-YM0jWvvpaUEyXWmSdBU" version="13.9.6" type="github">
   <diagram id="YxavO_FXAdjNvz0bF5jI" name="Page-1">
     <mxGraphModel dx="1422" dy="766" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -107,8 +107,8 @@
         <mxCell id="Rbu2n2zT7ar79QaJxE4s-23" value="réseau MD3" style="text;html=1;strokeColor=#b85450;fillColor=#f8cecc;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="735" y="205" width="50" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="Rbu2n2zT7ar79QaJxE4s-24" value="Architecture Bittorrent&lt;br&gt;Transfer de fichiers" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="475" y="410" width="100" height="70" as="geometry" />
+        <mxCell id="Rbu2n2zT7ar79QaJxE4s-24" value="&lt;font face=&quot;Times New Roman&quot;&gt;&lt;span style=&quot;font-size: 21px&quot;&gt;Réseau &quot;Médias&quot;&lt;/span&gt;&lt;/font&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="414" y="420" width="240" height="120" as="geometry" />
         </mxCell>
         <mxCell id="Rbu2n2zT7ar79QaJxE4s-25" value="" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="1">
           <mxGeometry x="502.5" y="192.5" width="55" height="55" as="geometry" />
